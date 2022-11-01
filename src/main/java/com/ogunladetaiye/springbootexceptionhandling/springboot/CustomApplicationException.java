@@ -1,4 +1,4 @@
-package com.ogunladetaiye.springbootexceptionhandling;
+package com.ogunladetaiye.springbootexceptionhandling.springboot;
 
 import org.springframework.http.HttpStatus;
 
